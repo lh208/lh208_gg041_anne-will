@@ -1,0 +1,30 @@
+id,name,party,sector,country,episode
+uvl,Ursula von der Leyen,cdu,politics,germany,500
+lk,Lars Klingbeil,spd,politics,germany,"500, 503"
+nr,Norbert Röttgen,cdu,politics,gemarny,"500, 501"
+sw,Sahra Wagenknecht,linke,politics,germany,500
+cs,Constanze Stelzenmüller,na,ngo,usa,500
+cl,Christian Lindner,fdp,politics,germany,501
+ks,Karl Schlögel,na,history,germany,501
+lm,Ljudmyla Melnyk,na,science,germany,501
+kd,Kristina Dunz,na,journalism,germany,501
+el,Egils Levits,na,politics,latvia,501
+ab,Annalena Baerbock,grüne,politics,germany,502
+ft,Frans Timmermans,na,politics,belgium,502
+am,Andrij Melnyk,na,politics,germany,502
+agl,Alexander Graf Lambsdorff,fdp,politics,germany,502
+er,Egon Ramms,na,military,germany,502
+rh,Robert Habeck,grüne,politics,germany,503
+cm,Claudia Major,na,science,germany,503
+kp,Katja Petrowskaja,na,journalism,germany,503
+rk,Roderich Kiesewetter,cdu,politics,germany,503
+500,Folge 500,na,na,na,na
+501,Folge 501,na,na,na,na
+502,Folge 502,na,na,na,na
+503,Folge 503,na,na,na,na
+cdu,cdu,na,na,na,na
+spd,spd,na,na,na,na
+grüne,grüne,na,na,na,na
+linke,linke,na,na,na,na
+fdp,fdp,na,na,na,na
+na,na ,na,na,na,na
